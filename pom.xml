@@ -69,6 +69,8 @@
     <karaf.version>3.0.3</karaf.version>
     <dependency.pentaho.pentaho-xul-core.version>${project.version}</dependency.pentaho.pentaho-xul-core.version>
 
+    <cxf.karaf.version>3.0.7</cxf.karaf.version>
+
     <net.sf.flexjson.version>2.1</net.sf.flexjson.version>
     <commons.collections.version>3.2.2</commons.collections.version>
     <commons.httpclient.version>3.1</commons.httpclient.version>
